@@ -22,6 +22,10 @@
             // function |||
             //          vvv
             #endregion task3
+
+            //
+            // Other task in other files
+            //
         }
         static void DrawSquare(char _s, int width)
         {
